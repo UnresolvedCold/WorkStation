@@ -1,0 +1,8 @@
+#IgnoreFiles
+Doc/
+Images/
+UploadedStuffs/
+CustomPages/
+Theme/
+pagekite.py
+
